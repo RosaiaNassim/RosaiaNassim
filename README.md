@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available on my github
 
 - 📫 How to reach me **rosaia244@gmail.com**
 
